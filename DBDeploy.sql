@@ -1,0 +1,1 @@
+sqlplus -L hr/hr123 @ D:\createTab.sql 
